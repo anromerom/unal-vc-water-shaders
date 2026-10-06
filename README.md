@@ -1,10 +1,19 @@
 # Water Shaders
 
-Final project for **Visual Computing** at Universidad Nacional de Colombia (2020).
-It simulates two aspects of water in Processing with GLSL shaders and the [nub](https://github.com/VisualComputing/nub) scene-graph library:
+Simulates two aspects of water in Processing with GLSL shaders and the [nub](https://github.com/VisualComputing/nub) scene-graph library:
 
 - **Water texturing:** a lake that reflects and refracts the scene, with animated ripples
 - **Water geometry:** fake liquid inside a container that wobbles when the container moves
+
+| | |
+|---|---|
+| **Course** | *Computación Visual* (Visual Computing), Universidad Nacional de Colombia |
+| **Term** | 2020-1 (delivered Jul 2020; nub update Oct 2020), final project |
+| **Team** | Nicolai Romero ([@anromerom](https://github.com/anromerom)) · Julián Rodríguez ([@jdrodriguezrui](https://github.com/jdrodriguezrui)) · Edder Hernández ([@Heldeg](https://github.com/Heldeg)) |
+| **Stack** | Processing 3.5.4, Java, GLSL, nub |
+| **Status** | Course deliverable, re-validated Oct 2026 |
+
+> **About the course:** an undergraduate course in the Systems and Computing Engineering program on image processing and real-time computer graphics: pixel operations, convolution, shaders (GLSL) and scene graphs, mostly with Processing and the course's [nub](https://github.com/VisualComputing/nub) library.
 
 ![Water texturing in Processing](resources/5.gif)
 
@@ -84,11 +93,3 @@ Tested in Oct 2026 on Ubuntu 26.04. Both demos need **Processing 3.5.4**; newer 
 - **The two demos were never merged** into one scene.
 
 </details>
-
-## Team
-
-| Member | GitHub |
-|---|---|
-| Nicolai Romero | [@anromerom](https://github.com/anromerom) |
-| Julián Rodríguez | [@jdrodriguezrui](https://github.com/jdrodriguezrui) |
-| Edder Hernández | [@Heldeg](https://github.com/Heldeg) |
